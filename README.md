@@ -1,5 +1,7 @@
 ### Realm Relay updated to the DECA era of Realm of the Mad God
-##I updated realm relay to the current build X15.0.0 as of June 2017.
+I updated realm relay to the current build X15.0.0 as of June 2017.
+
+###Use IntelliJ Community Edition to compile. I won't make a compilation guide but building is very simple. Compile the project, then build a JAR artifact referencing the .jar file in /lib folder
 
 ### What's new?
 `Packets have been updated`
