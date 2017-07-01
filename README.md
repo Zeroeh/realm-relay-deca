@@ -8,9 +8,8 @@
 `Packet structures have been updated`
 
 ### What still needs to be done?
-`New packets have been added, but the app doesn't parse them yet.`
-`Better linux support, it's cross platform but you can tell it was meant for windows machines.`
-`The XML files containing tiles, objects, and items still need to be updated to current builds. (Easy fix, just need to parse the new xml data tags from pets)`
+`New packets have been added, but the app doesn't parse them yet.`\n
+`The XML files containing tiles, objects, and items still need to be updated to current builds. (Easy fix, just need to parse the new xml data tags from pets)`\n
 
 ### I want to make a new addition to realm relay, what would be cool to add?
 `Make it so that you can type /reload in game so that all scripts get refreshed. Currently the refresh when you switch maps but having them refresh instantly would be amazing.`
