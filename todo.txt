@@ -1,5 +1,4 @@
-1. Change the playerdata to use switch-case instead of else if tower
-2. Switch out all i++ with ++i for better performance / heap performance
+1. Change the playerdata to use switch-case instead of else if tower (DONE)
 3. Better / faster packet handling
 4. clientless support?
 5. Better thread / core management
