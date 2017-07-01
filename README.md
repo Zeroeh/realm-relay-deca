@@ -1,5 +1,5 @@
 ### Realm Relay updated to the DECA era of Realm of the Mad God
-I updated realm relay to the current build 27.X15 as of June 2017.
+I updated realm relay to the current build X15.0.0 as of June 2017.
 
 ### What's new?
 ```Packets have been updated
