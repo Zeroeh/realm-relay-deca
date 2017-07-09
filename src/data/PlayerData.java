@@ -93,11 +93,8 @@ public class PlayerData
 	{
 	}
 
-	//todo: figure out wtf statId, statAmount, and statString are (check client perhaps)
 	public void parseNewTICK(int statId, int statAmount, String statString)
 	{
-		//todo: switch:case statement (faster parsing due to the jump table rather than checking each one)
-		//todo: unit test
 		switch (statId)
 		{
 			case 0:
@@ -393,7 +390,7 @@ public class PlayerData
 
 		/*
 		//shrink code here
-		//save else-if tower in case switch statement doesn't work
+		//keeping this for legacy reasons?
 		if (statId == 0)
 		{
 			this.maxHealthStat = statAmount;
